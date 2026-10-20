@@ -102,7 +102,7 @@ export const PresmunModal: React.FC<PresmunModalProps> = ({ isOpen, onClose }) =
                 Official Web Portal
               </span>
               <a
-                href="https://presmun.president.ac.id"
+                href="https://presmun.org"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-semibold text-xs text-[#1E5C99] hover:underline flex items-center gap-1 mt-0.5"
