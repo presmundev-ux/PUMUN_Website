@@ -137,7 +137,7 @@ export const PresmunModal: React.FC<PresmunModalProps> = ({ isOpen, onClose }) =
           {/* Direct CTA */}
           <div className="pt-4 border-t border-slate-200 flex flex-col sm:flex-row items-center justify-between gap-3">
             <span className="text-xs text-slate-500 text-center sm:text-left">
-              President University · School of International Relations
+              President University · Departement of International Relations
             </span>
 
             <div className="flex items-center gap-2 w-full sm:w-auto">
@@ -148,7 +148,7 @@ export const PresmunModal: React.FC<PresmunModalProps> = ({ isOpen, onClose }) =
                 Close
               </button>
               <a
-                href="https://presmun.president.ac.id"
+                href="https://presmun.org"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 sm:flex-none bg-[#0B1D3A] hover:bg-[#122B54] text-white text-xs font-semibold py-2 px-4 rounded-md transition-colors flex items-center justify-center gap-1.5 cursor-pointer shadow-sm"
