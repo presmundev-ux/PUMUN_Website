@@ -107,7 +107,7 @@ export const PresmunModal: React.FC<PresmunModalProps> = ({ isOpen, onClose }) =
                 rel="noopener noreferrer"
                 className="font-semibold text-xs text-[#1E5C99] hover:underline flex items-center gap-1 mt-0.5"
               >
-                <span>presmun.president.ac.id</span>
+                <span>presmun.org</span>
                 <ExternalLink className="w-3 h-3" />
               </a>
               <p className="text-[11px] text-slate-500 mt-1">
