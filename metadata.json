@@ -1,0 +1,6 @@
+{
+  "name": "PUMUN - President University Model United Nations",
+  "description": "Official portal for President University Model United Nations (PUMUN). Fostering diplomatic excellence, global dialogue, and youth leadership through world-class simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
